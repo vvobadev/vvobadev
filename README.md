@@ -68,40 +68,55 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
-```dart
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "TypeScript", "Python", "Go", "Rust", "Java", "Ruby" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "MongoDB", "Sqlite", "Redis", "PostgreSQL" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
+<h3 align="center">🚀 Full Stack | AI & Web3 | Trading Bots | Autonomous Agents</h3>
 
--  <img alt="GIF" src="https://github.com/greenworld0605/greenworld0605/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/greenworld0605/greenworld0605/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/LINUX**. <br>
-- <img src="https://github.com/greenworld0605/greenworld0605/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, AI agent, or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/greenworld0605/greenworld0605/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
+<p align="center">
+  I bring ideas to life with clean, scalable code and creative problem-solving. <br />
+  From Web3 to AI, I build future-forward solutions that work flawlessly and look great.
+</p>
 
-<div align="center" >
+---
 
-**Code Cycle**<br>
+## 💼 What I Do
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+### 🧠 AI & Automation
+- 🤖 **AI Agents & Chatbots** — GPT-powered assistants, CRM automation, business workflows
+- 🧩 **Autonomous Systems** — Context-aware bots that think, learn, and act
+- 📊 **Data to Action Pipelines** — From unstructured data to actionable insights
 
+### 🌐 Full Stack Development
+- ⚛️ **React / Next.js / Vue** Frontend development
+- 🛠️ **Node.js / Express / Python** Backend & APIs
+- 🗃️ **MongoDB / PostgreSQL / Firebase** Database design & optimization
+- 🌍 **MERN / JAMStack / REST / GraphQL** architecture & deployment
 
+### 🧪 Crypto Trading Bots
+- 🐍 **Sniper Bots** — Real-time token sniping for Solana, Ethereum, etc.
+- 🔄 **Copy Trading Bots** — Track wallets and auto-copy trades
+- ⚖️ **Arbitrage Bots** — Profit from price differences across DEXs
+- 🥪 **Sandwich Bots** — Advanced frontrunning and MEV strategies
+- 📈 **Backtesting & Live Monitoring** — Advanced analytics & dashboards
 
+### 🔗 Blockchain Development (Web3)
+- 🧾 **Smart Contracts** — Solidity, Rust (Solana), secure contract development
+- 🛠️ **DApps** — Seamless frontend/backend integrations with Web3
+- 🔐 **Wallet & Payment Integrations** — Metamask, Phantom, Stripe + Crypto
+- 🌐 **Chain Interactions** — Ethereum, Solana, Polygon, BSC and more
 
-<div align="center" width='100%'>
-  <h1><a align='center' width='100%' href="#">Please Click Here!</a></h1>
-</div>
+---
+
+## 📌 What Drives Me
+- 🚀 Turning **innovative ideas** into real-world applications
+- 🤝 Collaborating on **open source** & impactful projects
+- 📚 Constantly learning: AI, DeFi, zero-knowledge, agent architecture
+- 🧠 Building for **efficiency, intelligence, and scalability**
+
+---
+
+## ✨ Quotes I Live By
+> _"What you do today can improve all of your tomorrows."_
+
+---
 
 <table align="center">
   <tr>
@@ -487,21 +502,5 @@ class About extends Me {
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/greenworld0605?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=greenworld0605&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@greenworld0605's github-readme-stats"/>
-  </a>
-  <a href="https://github.com/greenworld0605?tab=stars">
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=greenworld0605&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  </a>
-</p>
-
-<div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenworld0605&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/greenworld0605?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=greenworld0605&theme=onestar&no-frame=true&column=4&row=2"  height="250px" alt="@greenworld0605's trophy stats"/>
-  </a>
-</div>
 
 </div>
