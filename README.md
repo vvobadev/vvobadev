@@ -103,11 +103,7 @@
 
 ---
 
-## ✨ Quotes I Live By
-> _"What you do today can improve all of your tomorrows."_
-
----
-
+## ⛏️ Tools and frameworks
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -377,5 +373,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+## ✨ Quotes I Live By
+> _"What you do today can improve all of your tomorrows."_
+
+---
 
 </div>
