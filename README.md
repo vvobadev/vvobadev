@@ -26,16 +26,6 @@
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
   <li>Developing extensive AI Experience</li>
 </ul>
-<br />
-<br />
-<br />
-<br />
-
-<p><strong>
-  Freelancing & Working on Superior Crypto & AI
-  <br><br> 
-  Vibing to : 🎧  
-</strong></p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=greenworld0605&style=flat&color=orange&label=PROFILE+VIEWS)
 </div>
@@ -270,121 +260,6 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
       <br>GraphQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45" height="45" alt="RestAPI" />
-      <br>RestAPI
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/clerk.svg" width="45" height="45" alt="Clerk" />
-      <br>Clerk
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" width="45" height="45" alt="Chatgpt" />
-      <br>Chatgpt
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-auto.svg" width="45" height="45" alt="Langchain" />
-      <br>Langchain
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pinecone-auto.svg" width="45" height="45" alt="Pinecone" />
-      <br>Pinecone
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="45" height="45" alt="SASS" />
-      <br>SASS
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" height="45" alt="MUI" />
-      <br>MUI
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="45" height="45" alt="Antd" />
-      <br>Antd
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
-      <br>Styled
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="45" height="45" alt="Framer Motion" />
-      <br>Framer Motion
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" width="45" height="45" alt="Ethereum" >
-      <br>Ethereum
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/solana-auto.svg" width="45" height="45" alt="Solana" >
-      <br>Solana
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chainlink-auto.svg" width="45" height="45" alt="Chainlink" >
-      <br>Chainlink
-    </td>
-    <td align="center" width="90">
-      <img src="https://avatars.githubusercontent.com/u/71380475?s=200&v=4" width="45" height="45" alt="Trading Bot" >
-      <br>Trading Bot
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="45" height="45" alt="NFT" >
-      <br>NFT
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/ipfs-auto.svg" width="45" height="45" alt="IPFS" >
-      <br>IPFS
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="45" height="45" alt="DeFi" >
-      <br>DeFi
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/openzeppelin-auto.svg" width="45" height="45" alt="Openzeppelin" />
-      <br>Openzeppelin
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="45" height="45" alt="Hardhat" />
-      <br>Hardhat
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/truffle-auto.svg" width="45" height="45" alt="Truffle" />
-      <br>Truffle
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/storybook-icon.svg" width="45" height="45" alt="Storybook" />
-      <br>Storybook
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/swagger-auto.svg" width="45" height="45" alt="Swagger" />
-      <br>Swagger
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" width="45" height="45" alt="Postman" />
-      <br>Postman
     </td>
   </tr>
   <tr>
