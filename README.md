@@ -6,8 +6,6 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img width="1003" height="557" alt="image" src="https://github.com/user-attachments/assets/d99ff530-8801-432a-8fef-399daff7ecf4" />
 </picture>
 
@@ -19,7 +17,7 @@
   <li>Decentralized crypto trading platforms.</li>
 </ul>
   
-<h3 align="left">Current Learning</h3>
+<h3 align="left">Who am I</h3>
 <ul align="left">
   <li>✨ Rust & DeFi Protocol Engineer | AI Agent Builder</li>
   <li>⚙️ DeFi Protocol Engineer & AI Agent Architect</li> 
@@ -66,43 +64,6 @@
 </p>
 
 ---
-
-## 💼 What I Do
-
-### 🧠 AI & Automation
-- 🤖 **AI Agents & Chatbots** — GPT-powered assistants, CRM automation, business workflows
-- 🧩 **Autonomous Systems** — Context-aware bots that think, learn, and act
-- 📊 **Data to Action Pipelines** — From unstructured data to actionable insights
-
-### 🌐 Full Stack Development
-- ⚛️ **React / Next.js / Vue** Frontend development
-- 🛠️ **Node.js / Express / Python** Backend & APIs
-- 🗃️ **MongoDB / PostgreSQL / Firebase** Database design & optimization
-- 🌍 **MERN / JAMStack / REST / GraphQL** architecture & deployment
-
-### 🧪 Crypto Trading Bots
-- 🐍 **Sniper Bots** — Real-time token sniping for Solana, Ethereum, etc.
-- 🔄 **Copy Trading Bots** — Track wallets and auto-copy trades
-- ⚖️ **Arbitrage Bots** — Profit from price differences across DEXs
-- 🥪 **Sandwich Bots** — Advanced frontrunning and MEV strategies
-- 📈 **Backtesting & Live Monitoring** — Advanced analytics & dashboards
-
-### 🔗 Blockchain Development (Web3)
-- 🧾 **Smart Contracts** — Solidity, Rust (Solana), secure contract development
-- 🛠️ **DApps** — Seamless frontend/backend integrations with Web3
-- 🔐 **Wallet & Payment Integrations** — Metamask, Phantom, Stripe + Crypto
-- 🌐 **Chain Interactions** — Ethereum, Solana, Polygon, BSC and more
-
----
-
-## 📌 What Drives Me
-- 🚀 Turning **innovative ideas** into real-world applications
-- 🤝 Collaborating on **open source** & impactful projects
-- 📚 Constantly learning: AI, DeFi, zero-knowledge, agent architecture
-- 🧠 Building for **efficiency, intelligence, and scalability**
-
----
-
 ## ⛏️ Tools and frameworks
 <table align="center">
   <tr>
