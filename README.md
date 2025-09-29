@@ -21,9 +21,9 @@
 <h3 align="left">Who am I</h3>
 <ul align="left">
   <li> Rust & Typescript developer 10+ years</li>
-  <li> DeFi Protocol Engineer & Trading platform</li> 
-  <li> Solana smart contract & EVM contract</li>
-  <li> Web full-stack</li>
+  <li> DeFi Protocol Engineer & Trading platform developer</li> 
+  <li> Solana smart contract & EVM contract developer</li>
+  <li> Web full-stack developer</li>
 </ul>
 </div>
 
