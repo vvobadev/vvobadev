@@ -8,13 +8,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img width="1003" height="557" alt="image" src="https://github.com/user-attachments/assets/d99ff530-8801-432a-8fef-399daff7ecf4" />
 </picture>
 
 <h3 align="left">Key Focus</h3>
 <ul align="left">
-  <li>Highly scalable and robust dapps based on Solana.</li>
-  <li>Blockchain interoperability using cross-chain bridges.</li>
+  <li>Cross-chain bridges</li>
   <li>Solana smart contract</li>
   <li>RPC/gRPC, Jito shredstream proxy</li>
   <li>Decentralized crypto trading platforms.</li>
