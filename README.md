@@ -19,10 +19,10 @@
   
 <h3 align="left">Who am I</h3>
 <ul align="left">
-  <li>✨ Rust & DeFi Protocol Engineer | AI Agent Builder</li>
-  <li>⚙️ DeFi Protocol Engineer & AI Agent Architect</li> 
-  <li>🚀 Hardcore Rust Engineer | DeFi Protocols & AI Agents</li>
-  <li>✨ Protocol Engineer • AI Agent Dev • Onchain Innovator</li>
+  <li> Rust & Typescript developer 10+ years</li>
+  <li> DeFi Protocol Engineer & Trading platform</li> 
+  <li> Solana smart contract & EVM contract</li>
+  <li> Web full-stack</li>
 </ul>
 </div>
 
