@@ -7,7 +7,7 @@
 <h6 align="left">Jito shredstream proxy - Ultra fast Solana block subscribe/decoding engine between validators</h6>
 </div>
 <picture>
-  <img width="1003" height="557" alt="image" src="https://github.com/user-attachments/assets/d99ff530-8801-432a-8fef-399daff7ecf4" />
+  <img width="1000" height="480" alt="image" src="https://github.com/user-attachments/assets/d99ff530-8801-432a-8fef-399daff7ecf4" />
 </picture>
 
 <h3 align="left">Key Focus</h3>
